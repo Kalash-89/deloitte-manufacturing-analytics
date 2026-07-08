@@ -34,6 +34,11 @@ international manufacturing factories to identify downtime patterns and root-cau
 Analysed employee compensation data to identify and quantify gender-based pay gaps across 
 roles, using Excel formulas and pivot tables.
 
+Used Excel formulas (AVERAGEIF, pivot tables) to calculate average pay by gender across 
+job roles, identifying compensation gaps and presenting findings to support pay equity 
+recommendations.
+
+**File:** `gender_pay_equity_analysis.xlsx`
 ---
 
 ## Files in this Repository
